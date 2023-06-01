@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labb 7 – XUnit & Acceptanstestning", "Labb 7 – XUnit & Acceptanstestning.csproj", "{78DE75BA-0BAE-4215-86B2-B574A538A703}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labb 7 -XUnit & Acceptanstestning.Tests", "..\Labb 7 -XUnit & Acceptanstestning\Labb 7 -XUnit & Acceptanstestning.Tests.csproj", "{431DC26A-4DE8-4BA5-ABB1-2A72D02A02BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78DE75BA-0BAE-4215-86B2-B574A538A703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78DE75BA-0BAE-4215-86B2-B574A538A703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78DE75BA-0BAE-4215-86B2-B574A538A703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78DE75BA-0BAE-4215-86B2-B574A538A703}.Release|Any CPU.Build.0 = Release|Any CPU
+		{431DC26A-4DE8-4BA5-ABB1-2A72D02A02BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{431DC26A-4DE8-4BA5-ABB1-2A72D02A02BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{431DC26A-4DE8-4BA5-ABB1-2A72D02A02BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{431DC26A-4DE8-4BA5-ABB1-2A72D02A02BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D67C266-CF23-4B7F-A7DC-3137E6CCB692}
+	EndGlobalSection
+EndGlobal
